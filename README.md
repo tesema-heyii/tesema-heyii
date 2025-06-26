@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tesema Heyii, I am software developer interested in python,Javascriptand react and youtube content creator 
+My name is Tesema Heyii, I am software developer interested in python,Javascriptand and react  
 - 🔭 I’m currently working on website design using javascript and react
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
